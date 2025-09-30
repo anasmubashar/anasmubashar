@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Cloud Computing(AWS)**
   
-- 👨‍💻 All of my projects are available at [Portfolio](https://anasmubashar-portfolio.netlify.app/)
-
 - 💬 Ask me about **MERN**, **Next.js**
 
 - 📫 Reach me at **anasmubashar812@gmail.com**
