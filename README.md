@@ -8,13 +8,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-- 🌱 I’m currently learning **Cloud Computing(AWS)**
+- 🌱 I’m currently learning **Generative AI**
   
 - 💬 Ask me about **MERN**, **Next.js**
 
 - 📫 Reach me at **anasmubashar812@gmail.com**
-
-- 📄 [Check out my experiences](https://docs.google.com/document/d/1aquSH9ugcf59272ia3Q2GOFipysoPkS_CGLTanbHhOc/edit?usp=sharing)
 
 - ⚡ **Fun fact:** _I'm a software engineer who codes with a cup of tea in hand, a chess game on pause, and a passion for turning ideas into innovative apps. Also, ask me about my latest gaming adventures!_
 
